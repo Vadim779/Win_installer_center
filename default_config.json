@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
+        "URL": "SteamSetup.exe",
+        "Setup": true
+    },
+    {
+        "Name": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.0.2-Full-Installer-x64.exe",
+        "URL": "OBS-Studio-30.0.2-Full-Installer-x64.exe",
+        "Setup": true
+    },
+    {
+        "Name": "https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9028/DiscordSetup.exe",
+        "URL": "DiscordSetup.exe",
+        "Setup": true
+    },
+    {
+        "Name": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.6/KeePassXC-2.7.6-Win64.msi",
+        "URL": "KeePassXC-2.7.6-Win64.msi",
+        "Setup": true
+    }
+]
