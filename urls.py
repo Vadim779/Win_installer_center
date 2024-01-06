@@ -20,7 +20,7 @@ class MainWindow(QMainWindow):
         self.table = QTableWidget(0, 3, self)  # Start with an empty table
         self.layout.addWidget(self.table)
 
-        self.table.setHorizontalHeaderLabels(["Name", "URL", "Setup"])
+        self.table.setHorizontalHeaderLabels(["url", "file_name", "setup"])
 
         self.add_row_button = QPushButton("Add Row", self)
         self.add_row_button.clicked.connect(self.add_row)
